@@ -1,3 +1,5 @@
+<?php  // <~ do not copy the opening php tag
+
 add_action( 'woocommerce_before_checkout_process', 'wc_minimum_order_amount' );
 add_action( 'woocommerce_before_cart' , 'wc_minimum_order_amount' );
  
