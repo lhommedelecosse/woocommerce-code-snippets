@@ -1,3 +1,5 @@
+<?php  // <~ do not copy the opening php tag
+
 /**
  * Adds product Weights above the "Add to Cart" buttons
  * Tutorial: http://www.skyverge.com/blog/add-information-to-woocommerce-shop-page/
