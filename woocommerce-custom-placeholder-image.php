@@ -1,3 +1,5 @@
+<?php  // <~ do not copy the opening php tag
+
 /*
 * Replace the image filename/path with your own :)
 *
