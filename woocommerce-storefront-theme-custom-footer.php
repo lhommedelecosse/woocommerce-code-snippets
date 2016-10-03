@@ -1,3 +1,5 @@
+<?php  // <~ do not copy the opening php tag
+
 add_action( 'init', 'custom_remove_footer_credit', 10 );
 
 function custom_remove_footer_credit () {
